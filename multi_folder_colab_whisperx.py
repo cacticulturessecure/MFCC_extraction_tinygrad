@@ -4,7 +4,7 @@ import gc
 import os
 
 # Your Hugging Face token
-HF_TOKEN = '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'
+HF_TOKEN = 'enter hugging face token here'
 
 def transcribe_and_diarize(audio_file_path, number_of_speakers, speaker_names):
     # Set device
